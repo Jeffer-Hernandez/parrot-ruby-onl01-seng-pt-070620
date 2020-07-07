@@ -3,5 +3,5 @@
 
 def parrot (word = "Squawk")
   puts word
-  "Squawk"
+  word
 end
